@@ -43,3 +43,10 @@ search.addEventListener('input', () => {
   if (!query) openOnSearch.clear();
   document.querySelector('#no-projects').hidden = total !== 0;
 });
+
+const gameCatalog = document.querySelector("#game-profiles");
+function revealGameCatalog() {
+  if (location.hash === "#game-profiles") gameCatalog.open = true;
+}
+window.addEventListener("hashchange", revealGameCatalog);
+revealGameCatalog();
