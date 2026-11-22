@@ -1,0 +1,3 @@
+3d41ff833036c80d7cb862f2f123ab74d3f45e5f8284561f176ea9ebe762aba7  System-Pulse-1.0.0.icuewidget
+fb5ccba3498211baef5bb870a03659e57e037981e581ae70b55f970866abdc1d  RSTECH-System-Pulse-Bridge-1.1.0.zip
+52ec7254eaaad9fa2b4e99a2c54daeb87ce077168a45cbfbf71d53dbfb66b9da  RSTECH-System-Pulse-Bridge-2.0.0.zip
